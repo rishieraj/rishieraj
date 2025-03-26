@@ -11,14 +11,14 @@
 I am a grad student at the University of Maryland, College Park. My research interests are in the domain of Multimodal AI, where I am trying to combine **vision** with other modalities like **language** and **audio** to improve visual understanding. 
 Most of my current works are in the field of vision, but I am working ;
 
-## 🚀 Featured Projects
+## 🚀 Latest Projects
 
-### 🤖 AI Project Name
+### 🤖 Arbitrary Style Transfer
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rishieraj/multimodal-classification)
-> Short description (1-2 sentences)
-- tech
+> 
+- 
 
-### 🌐 Web Project Name
+### 💻 Thermal Image Denoising
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rishieraj/multimodal-classification)
-> Short description (1-2 sentences)
-- Tech
+> 
+- 
