@@ -19,6 +19,6 @@ Most of my current works are in the field of vision, but I am working ;
 - 
 
 ### 💻 Thermal Image Denoising
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rishieraj/multimodal-classification)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rishieraj/thermal-image-denoising.git)
 > 
 - 
